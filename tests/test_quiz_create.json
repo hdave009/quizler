@@ -1,0 +1,33 @@
+{
+  "quiz": {
+    "name": "World Capital Quiz",
+    "questions": [
+      {
+        "question": "What is the capital of Canada?",
+        "answers": [
+          {
+            "answer": "Ottawa",
+            "correct": true
+          },
+          {
+            "answer": "Toronto",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "What is the capital of India?",
+        "answers": [
+          {
+            "answer": "Delhi",
+            "correct": true
+          },
+          {
+            "answer": "Mumbai",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  }
+}
